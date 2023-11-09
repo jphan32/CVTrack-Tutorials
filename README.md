@@ -11,6 +11,7 @@ ETRI SW-SoC CV Track Tutorials
       - normalization
   - **Data Augmentation**
       - **Albumentations**
+        [Albumentations](https://albumentations.ai/)
       - **soft augmentation**
           - **Brightness,…**
           - **Flip,…**
@@ -18,12 +19,15 @@ ETRI SW-SoC CV Track Tutorials
           - **CutOut**
           - **CutMix**
           - **Mixup**
-          - **Random Erasing,…**
+          - **Random Erasing**,…
   - Good base model
-      - Papers with Code -SOTA
+      - Papers with Code - SOTA
+        [Papers with Code](https://paperswithcode.com/)
       - OpenMMLab, PaddlePaddle, Detectron,…
       - **to improve model capacity…**
       - CNN vs **ViT**
+        [ViT](https://arxiv.org/abs/2010.11929)
+        [Transformer](https://arxiv.org/abs/1706.03762)
   - Dig, Dig, Dig,…
       - mixed-precision training (AMP)
       - Data cleansing
@@ -47,5 +51,9 @@ ETRI SW-SoC CV Track Tutorials
       - MLFlow / WandB / Tensorboard,…
       - **Confusion matrix**
       - Grad CAM
-  - Model Ensemble
+  - **Model Ensemble**
+      - Majority Voting
+      - Bagging
+      - Boosting
+      - Weighted Probability Averaging,...
   - **Test Time Augmentation**
