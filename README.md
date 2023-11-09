@@ -23,6 +23,7 @@ ETRI SW-SoC CV Track Tutorials
       - Papers with Code -SOTA
       - OpenMMLab, PaddlePaddle, Detectron,…
       - **to improve model capacity…**
+      - CNN vs **ViT**
   - Dig, Dig, Dig,…
       - mixed-precision training (AMP)
       - Data cleansing
